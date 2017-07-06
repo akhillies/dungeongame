@@ -1,0 +1,36 @@
+{
+  "name": "dungeongame",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "flexbox-react": "^4.4.0",
+    "jquery": "^3.2.1",
+    "jshashes": "^1.0.6",
+    "material-ui": "^0.18.3",
+    "moment": "^2.18.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.28",
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^1.0.10",
+    "react-tap-event-plugin": "^2.0.1",
+    "react-unity-webgl": "^5.7.0",
+    "redux": "^3.7.1",
+    "redux-form": "^6.8.0",
+    "redux-thunk": "^2.2.0",
+    "socket.io": "^2.0.3",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
